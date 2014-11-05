@@ -1,0 +1,94 @@
+Shakespeare
+words: 1284778
+correct: 75626.0
+incorrect: 1319.0
+incorrect/correct: 0.017441091688
+incorrect/words: 0.00102663650841
+percent prep: 0.0598897241391
+
+HP1
+words: 78874
+correct: 8712.0
+incorrect: 240.0
+incorrect/correct: 0.0275482093664
+incorrect/words: 0.0030428278013
+percent prep: 0.113497476989
+
+HP2
+words: 78014
+correct: 9039.0
+incorrect: 196.0
+incorrect/correct: 0.0216838145813
+incorrect/words: 0.00251236957469
+percent prep: 0.118376188889
+
+HP3
+words: 95537
+correct: 11255.0
+incorrect: 311.0
+incorrect/correct: 0.0276321634829
+incorrect/words: 0.00325528329338
+percent prep: 0.121063043638
+
+HP4
+words: 196511
+correct: 24163.0
+incorrect: 455.0
+incorrect/correct: 0.0188304432397
+incorrect/words: 0.00231539201368
+percent prep: 0.125275429874
+
+HP5
+words: 275388
+correct: 32214.0
+incorrect: 468.0
+incorrect/correct: 0.0145278450363
+incorrect/words: 0.00169942045405
+percent prep: 0.118676195041
+
+HP6
+words: 180909
+correct: 20410.0
+incorrect: 304.0
+incorrect/correct: 0.0148946594806
+incorrect/words: 0.00168040285447
+percent prep: 0.114499555025
+
+Aesop
+words: 35209
+correct: 4191.0
+incorrect: 22.0
+incorrect/correct: 0.00524934383202
+incorrect/words: 0.000624840239711
+percent prep: 0.119656905905
+
+moby dick
+words: 387877
+correct: 51428.0
+incorrect: 562.0
+incorrect/correct: 0.0109278991989
+incorrect/words: 0.00144891292858
+percent prep: 0.134037336578
+
+Tale of two cities
+words: 123426
+correct: 16633.0
+incorrect: 206.0
+incorrect/correct: 0.0123850177358
+incorrect/words: 0.00166901625265
+percent prep: 0.136429925623
+
+Canterbury Tales
+words: 365692
+correct: 26938.0
+incorrect: 98.0
+incorrect/correct: 0.00363798351771
+incorrect/words: 0.000267985080341
+percent prep: 0.0739310676744
+
+dryden v3
+correct: 10185.0
+incorrect: 139.0
+incorrect/correct: 0.013647520864
+incorrect/words: 0.000998269187955
+percent prep: 0.074144828032
